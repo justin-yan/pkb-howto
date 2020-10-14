@@ -23,8 +23,6 @@
 ## Activities
 
 * [Career](activities/career.md)
-* [Journal](activities/journal.md)
-* [Records](activities/reading.md)
 * [Reading](activities/records.md)
 * [Dotfiles](activities/dotfiles.md)
 
