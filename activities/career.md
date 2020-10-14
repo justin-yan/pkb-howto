@@ -1,7 +1,5 @@
 # Career
 
-
-
 There's almost infinite possibilities for using your PKB when it comes to your career, here are some ideas based on things in my `Career/` folder:
 
 * `Index.md` is where I keep the high-level current summary of my career.
