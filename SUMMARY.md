@@ -10,10 +10,10 @@
 ## Meta-Process
 
 * [Decision Logs](meta-process/decision-logs.md)
-* [Learning Cycle](meta-process/index/README.md)
-  * [Zettelkasten](meta-process/index/zettelkasten.md)
-  * [Spaced Repetition](meta-process/index/spaced-repetition.md)
-  * [Evergreen](meta-process/index/evergreen.md)
+* [Learning Cycle](meta-process/learning-cycle/README.md)
+  * [Zettelkasten](meta-process/learning-cycle/zettelkasten.md)
+  * [Spaced Repetition](meta-process/learning-cycle/spaced-repetition.md)
+  * [Evergreen](meta-process/learning-cycle/evergreen.md)
 
 ## Structure
 
