@@ -24,7 +24,7 @@
 
 ## Tech
 
-* [Stacks](tech/stacks.md)
+* [Features](tech/stacks.md)
 * [Editors](tech/editors.md)
 
 ## Misc

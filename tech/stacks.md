@@ -1,4 +1,4 @@
-# Stacks
+# Features
 
 In terms of choosing tools for my PKB, this is my priority order for features:
 
