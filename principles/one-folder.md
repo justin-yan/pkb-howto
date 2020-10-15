@@ -6,7 +6,7 @@ I accomplish this by putting everything important into a single folder, and ensu
 
 * Notes
 * Old Homework
-* Dotfiles \(e.g. my `.gitconfig` lives here, and is symlinked to `~/.git/.gitconfig`\)
+* [Dotfiles](../activities/dotfiles.md)
 
 This has the additional benefit that whenever I need to set up a new computer, all I have to do is synchronize this folder onto it, tweak a few settings, and I'm ready to be productive!
 
