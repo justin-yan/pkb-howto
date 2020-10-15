@@ -13,10 +13,8 @@
 
 ## Structure
 
----
-
-* [Associative](associative.md)
-* [Hierarchical](hierarchical.md)
+* [Associative](structure/associative.md)
+* [Hierarchical](structure/hierarchical.md)
 
 ## Activities
 
@@ -26,10 +24,9 @@
 ## Tech
 
 * [Stacks](tech/stacks.md)
+* [Editors](tech/editors.md)
 
 ## Misc
-
----
 
 * [Contribute on Github](https://github.com/justin-yan/pkb-howto)
 * [Icons Made By Freepik](https://www.flaticon.com/authors/freepik)

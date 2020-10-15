@@ -40,3 +40,4 @@ I dislike this option because other tools won't understand this special dialect,
 {% endtabs %}
 
 * **Rendering**: I enjoy interleaving some visuals and code in my knowledge, but I prefer native features like markdown’s typed codeblocks for including the code, and then having plugins for my renderer to handle specific codeblocks in certain ways \(for example, understanding `mermaid` and rendering charts, or `latex` and rendering math\).  This way, you retain _progressive enhancement_: every markdown parser will display it as a codeblock at minimum.
+
