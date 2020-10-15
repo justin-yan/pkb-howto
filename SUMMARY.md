@@ -31,5 +31,6 @@
 
 ---
 
+* [Contribute on Github](https://github.com/justin-yan/pkb-howto)
 * [Icons Made By Freepik](https://www.flaticon.com/authors/freepik)
 
