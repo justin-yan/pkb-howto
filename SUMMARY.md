@@ -20,6 +20,7 @@
 
 * [Career](activities/career.md)
 * [Reading](activities/records.md)
+* [Dotfiles](activities/dotfiles.md)
 
 ## Tech
 
