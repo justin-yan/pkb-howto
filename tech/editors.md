@@ -32,14 +32,13 @@ Create a **sublime-project** file in your root folder
 
 {% code title="~/pkb/pkb.sublime-project" %}
 ```javascript
-
+{
 	"folders":
 	[
 		{
-			"binary_file_patterns":
+			"binary_file_patterns": // Exclude from search
 			[
 				"*.pdf",
-				"*.PDF",
 				"*.doc",
 				"*.docx",
 				"*.xlsx",
