@@ -13,7 +13,7 @@ These systems are seductive because writing notes _feels like work_.  You can _s
 
 ### What is Learning?
 
-One of the most salient cognitive problems is the question of _learning_.  What does it mean to do it well? Can we do it faster?  There are a variety of frameworks for thinking about this, such as the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), the [Bloom Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), the [Benner Progression](https://en.wikipedia.org/wiki/Patricia_Benner), or even the medeival guild progression.  I think it's actually illustrated pretty well in the following meme:
+One of the most salient cognitive problems is the question of _learning_.  What does it mean to do it well? Can we do it faster?  There are a variety of frameworks for thinking about this, such as the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), the [Bloom Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), the [Benner Progression](https://en.wikipedia.org/wiki/Patricia_Benner), or even the medieval guild progression.  I think it's actually illustrated pretty well in the following meme:
 
 ![](../.gitbook/assets/ws.jpg)
 
