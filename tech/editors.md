@@ -22,7 +22,7 @@ I've included a sample list of tools that I've _heard of other people_ using for
 
 ### SublimeText
 
-SublimeText will give you a lot of control over your data and extremely smooth text editing capabilities.  You have the freedom to work with any file in any format, which means you'll have to make some choices about your file format, how you'll sync your data, and so on.  For now, unless you have a different preference, it's probably easiest to just start writing new files in [Markdown](https://www.markdownguide.org/) and go from there.
+SublimeText will give you a lot of control over your data formats and has smooth text editing capabilities.  You have the freedom to work with any file in any format, which means you'll have to make some choices about your file format, how you'll sync your data, and so on.  For now, unless you have a different preference, it's probably easiest to just start writing new files in [Markdown](https://www.markdownguide.org/) and go from there.
 
 The tips below should help you make the most of using Sublime.
 

@@ -9,11 +9,11 @@ In the spirit of [**Be Useful**](../#be-useful), it's worth remembering what _co
 
 It suggests the question: is it Zettelkasten that made Luhmann successful, or is it that he was relentlessly focused on problems he cared about, and _Zettelkasten_ was the set of cognitive processes that he designed for _his_ brain and _his_ problems?
 
-These systems are seductive because writing notes _feels like work_.  You can _see yourself_ filling out holes in your knowledge!  It constantly feels like you're on the verge of achieving a dense enough network of facts and links from which novel insight and value will emerge.  To cut through this, let's revisit some of the general cognitive problems you might be facing, so that you can evaluate how to pick and choose the best parts from these systems for yourself.
+These systems are seductive because writing notes _feels like work_.  You can _see yourself_ filling out holes in your knowledge!  It constantly feels like you're on the verge of achieving a dense enough network of facts and links from which novel insight and a PhD thesis will emerge.  To cut through this, let's revisit some of the general cognitive problems you might be facing, so that you can evaluate how to pick and choose the best parts from these systems for yourself.
 
 ### What is Learning?
 
-One of the most salient cognitive problems is the question of _learning_.  What does it mean to do it well? Can we do it faster?  There are a variety of frameworks for thinking about this, such as the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), the [Bloom Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), the [Benner Progression](https://en.wikipedia.org/wiki/Patricia_Benner), or even the medieval guild progression.  I think it's actually illustrated pretty well in the following meme:
+One of the most salient cognitive problems is the question of _learning_.  What does it mean to do it well? Can we do it faster?  There are a variety of frameworks for thinking about this, such as the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), the [Bloom Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), the [Benner Progression](https://en.wikipedia.org/wiki/Patricia_Benner), or even the guild progression \(Novice -&gt; Journeyman -&gt; Master\).  I think it's actually illustrated pretty well in the following meme:
 
 ![](../.gitbook/assets/ws.jpg)
 
@@ -53,7 +53,7 @@ The seductive nature of collecting knowledge probably lies in the hope of _**gen
 **Concept-based Notes.**  Store your knowledge by what it is, not where you read it.
 {% endhint %}
 
-I strongly agree with Andy Matuschak's second axiom for Evergreen Notes, and much of my PKB is organized around domain \(e.g. `Biology/` \) and then concept \(e.g. `Cell Division` \).  When you run across a concept in different contexts, organizing in this way forces you to bring the notes for these things together, which is a way of "forcing" connections and "serendipity" to occur.  Of course, it requires active curation - you need to have curate concepts at a good level of granularity \(too fine and you'll never have connections, too coarse and the connections will be spurious\), you need to have a workflow for collating your knowledge, etc.
+I strongly agree with Andy Matuschak's second axiom for Evergreen Notes, and much of my PKB is organized around domain \(e.g. `Biology/` \) and then concept \(e.g. `Cell Division` \).  When you run across a concept in different contexts, organizing in this way forces you to bring the notes for these things together, which is a way of "forcing" connections and for "serendipity" to occur.  Of course, it requires active curation - you need to have curate concepts at a good level of granularity \(too fine and you'll never have connections, too coarse and the connections will be spurious\), you need to have a workflow for collating your knowledge, etc.
 
 {% hint style="info" %}
 **Embrace Duplication.**  The same knowledge can be useful in different places.
